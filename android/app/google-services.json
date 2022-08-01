@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287234288992",
+    "project_id": "cadarch-app",
+    "storage_bucket": "cadarch-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287234288992:android:fd316e722c2998aeed8205",
+        "android_client_info": {
+          "package_name": "com.cadarch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287234288992-jovmvbcecmvq3fbvcrjq4aatan622sq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSsdV_5vEjuHIzqNGoTzxtQEl0SPgdSyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287234288992-jovmvbcecmvq3fbvcrjq4aatan622sq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

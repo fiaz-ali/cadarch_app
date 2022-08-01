@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">287234288992-jovmvbcecmvq3fbvcrjq4aatan622sq0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">287234288992</string>
+    <string name="google_api_key" translatable="false">AIzaSyCSsdV_5vEjuHIzqNGoTzxtQEl0SPgdSyQ</string>
+    <string name="google_app_id" translatable="false">1:287234288992:android:fd316e722c2998aeed8205</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCSsdV_5vEjuHIzqNGoTzxtQEl0SPgdSyQ</string>
+    <string name="google_storage_bucket" translatable="false">cadarch-app.appspot.com</string>
+    <string name="project_id" translatable="false">cadarch-app</string>
+</resources>
